@@ -1,2 +1,3 @@
-# Kiba-Bot-3
-Intento de Bot
+# KibaBot : The Discord Bot
++
++Kiba Bot es el bot para el servidor B-Sumday, esta en proceso de creación.
